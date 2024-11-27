@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Marking-Time - Mark King
 - 👀 I’m interested in:
   - Python backends and web frontends
-- 🌱 I’m currently learning ... chatbots, building a portfolio, practicing python
+  - Open source APIs for publicly used services. In particular, ensuring regualtory compliance. Why does that code need to be proprietary?
+  - Trustless computing
+- 🌱 I’m currently implementing learnings to create a portfolio and  practicing python
 - 💞️ I’m looking to collaborate on ... I don't know; ask me.
 - 📫 How to reach me ... g34519838@gmail.com
 - 😄 Pronouns: ...
