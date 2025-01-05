@@ -5,7 +5,7 @@
   - Trustless computing
 - 🌱 I’m currently implementing learnings to create a portfolio and  practicing python
 - 💞️ I’m looking to collaborate on ... I don't know; ask me.
-- 📫 How to reach me ... g34519838@gmail.com
+- 📫 How to reach me ... mark_g_king@mail.com
 - 😄 Pronouns: ...
 
 
