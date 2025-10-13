@@ -1,12 +1,9 @@
 - 👋 Hi, I’m @Marking-Time - Mark King
 - 👀 I’m interested in:
   - Python backends and web frontends
-  - Open source APIs for publicly used services. In particular, ensuring regualtory compliance. Why does that code need to be proprietary?
-  - Trustless computing
 - 🌱 I’m currently implementing learnings to create a portfolio and  practicing python
 - 💞️ I’m looking to collaborate on ... I don't know; ask me.
-- 📫 How to reach me ... mark_g_king@mail.com
-- 😄 Pronouns: ...
+- 📫 How to reach me ... disopinionated@mail.com
 
 
 <!---
